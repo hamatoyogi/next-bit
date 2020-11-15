@@ -13,7 +13,7 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "cap-test.playground/bit-test-2@1.0.1": {
+    "cap-test.playground/bit-test-2@1.1.0": {
         "files": [
             {
                 "name": "bit-test-2.jsx",
