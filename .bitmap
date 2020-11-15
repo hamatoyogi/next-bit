@@ -13,12 +13,12 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "cap-test.playground/bit-test-2@1.0.0": {
+    "cap-test.playground/bit-test-2@1.0.1": {
         "files": [
             {
+                "name": "bit-test-2.jsx",
                 "relativePath": "src/components/bit-test-2/bit-test-2.jsx",
-                "test": false,
-                "name": "bit-test-2.jsx"
+                "test": false
             }
         ],
         "mainFile": "src/components/bit-test-2/bit-test-2.jsx",
